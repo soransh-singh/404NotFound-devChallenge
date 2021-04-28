@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=1%3A4">
+    <a href="https://404-not-found-dev-challenge-one.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://404-not-found-dev-challenge-one.vercel.app/">
+    <a href="https://devchallenges.io/solutions/9B6bYe5PdsHV5GT7XmJn">
       Solution
     </a>
     <span> | </span>
